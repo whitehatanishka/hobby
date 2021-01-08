@@ -1,13 +1,17 @@
 .hobby{
 width:500px;
 height:500px;
+    
 }
 
 body{
     text-align: center;
-    background: linear-gradeint(#e3fc03 0%,#98fc03 100%);
+   
     background-repeat: no-repeat;
 }
 h1{
     text-shadow: 2px 2px #98fc03;
+}
+#y{
+     background: linear-gradient(#e3fc03 0%,#98fc03 100%);
 }
